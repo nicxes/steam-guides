@@ -1,0 +1,27 @@
+{
+  "name": "steam-guides",
+  "version": "1.0.0",
+  "description": "Steam Guides a very cool design to make guides for gamers, by gamers",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicxes/steam-guides.git"
+  },
+  "author": "Nicolás Miranda <hello@nicxes.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicxes/steam-guides/issues"
+  },
+  "homepage": "https://github.com/nicxes/steam-guides#readme"
+}
